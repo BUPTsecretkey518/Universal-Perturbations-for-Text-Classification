@@ -85,7 +85,7 @@ while r_iter < len(r_threshold):
     old_r = None
     step_scale = 0.1
     iter_total = 0
-    max_iterations = 750
+    max_iterations = 1000
     flag = False
 
     path = os.path.join(args.cur_dir, )
